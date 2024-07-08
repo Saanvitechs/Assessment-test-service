@@ -1,4 +1,4 @@
-# Assessment-test-service
+# Feedback-service
 
-This repository contains the code for an assessment test service built with Java Spring Boot for the backend and React.js for the frontend. 
-The service provides functionalities for creating, managing, and taking assessment tests.
+This repository contains the code for a feedback service built with Java Spring Boot for the backend and React.js for the frontend. 
+The service enables users to submit, view, and manage feedback effectively.
